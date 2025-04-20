@@ -1,0 +1,22 @@
+.filter-list {
+    max-width: 500px;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px black;
+}
+
+#typeDropdown {
+    margin: 0 auto 20px auto;
+    width: 50%;
+}
+
+.filter-list ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
+  
+.filter-list li {
+    margin: 2px ;
+    font-size: 18px;
+}
